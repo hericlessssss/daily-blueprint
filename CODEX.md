@@ -90,3 +90,7 @@ rg -n "[^[:ascii:]]" CODEX.md docs prompts src test package.json tsconfig.json t
 - Smoke test na VPS em `~/daily-blueprint-smoke` passou `npm ci`,
   `npm run check` e `npm run generate` com Ollama real. A pasta era temporaria
   e sem `.git`, entao validou runtime/LLM/escrita, nao commit/push.
+- Clone real na VPS em `~/apps/daily-blueprint` precisa de `git config
+  user.name` e `git config user.email` antes do primeiro commit automatizado.
+- Primeiro teste real com Git na VPS publicou `entries/2026-06-05.md` no commit
+  `d2e44ee`.

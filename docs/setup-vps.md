@@ -58,6 +58,15 @@ git config user.name "Hericles Francisco"
 git config user.email "email-associado-ao-github@example.com"
 ```
 
+No clone real da VPS, a identidade foi configurada assim:
+
+```bash
+git config user.name "Hericles Francisco"
+git config user.email "hericlessousa@live.com"
+```
+
+Sem essa configuracao, `git commit` falha com `Author identity unknown`.
+
 ## Ollama
 
 Instalacao e modelo inicial:
@@ -91,6 +100,8 @@ Resultado observado na VPS Hostinger:
   `npm run check` e `npm run generate` com `GIT_AUTO_COMMIT=false`.
 - O smoke test criou `entries/2026-06-05.md` e atualizou `README.md` na copia
   temporaria.
+- Teste real no clone `~/apps/daily-blueprint` gerou a entrada de `2026-06-05`,
+  criou commit e fez push para `origin/main`.
 
 ## Cron inicial
 

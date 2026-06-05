@@ -165,3 +165,9 @@ Motivo:
 - Testes validam os comandos sem tocar em repositorio real.
 - O sync com `git pull --rebase` deve acontecer antes da escrita dos arquivos,
   evitando conflito com alteracoes remotas.
+
+Validacao:
+
+- O clone real na VPS criou e pushou `entry: add 2026-06-05 fragment`.
+- Antes disso, foi necessario configurar `user.name` e `user.email` no Git do
+  clone para evitar `Author identity unknown`.
