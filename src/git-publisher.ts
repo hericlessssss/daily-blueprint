@@ -29,6 +29,11 @@ export interface PublishGitChangesOptions {
   runner?: GitRunner;
 }
 
+export interface SyncGitRepositoryOptions {
+  rootDir: string;
+  runner?: GitRunner;
+}
+
 export interface PublishGitChangesResult {
   committed: boolean;
   pushed: boolean;
@@ -42,6 +47,14 @@ export function buildCommitMessage(options: CommitMessageOptions): string {
   return `entry: add ${options.entryDate} ${suffix}`;
 }
 
+export async function syncGitRepository(options: SyncGitRepositoryOptions): Promise<void> {
+  const runner = options.runner ?? runGitCommand;
+
+  await runner("git", ["pull", "--rebase"], {
+    cwd: options.rootDir
+  });
+}
+
 export async function publishGitChanges(
   options: PublishGitChangesOptions
 ): Promise<PublishGitChangesResult> {
@@ -49,8 +62,6 @@ export async function publishGitChanges(
   const runnerOptions = {
     cwd: options.rootDir
   };
-
-  await runner("git", ["pull", "--rebase"], runnerOptions);
 
   const status = await runner(
     "git",

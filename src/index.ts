@@ -8,7 +8,10 @@ import {
 } from "./llm-generator.js";
 import { generateMockFragments } from "./mock-generator.js";
 import { getProjectName } from "./project.js";
-import { publishGitChanges } from "./git-publisher.js";
+import {
+  publishGitChanges,
+  syncGitRepository
+} from "./git-publisher.js";
 import {
   buildPromptInput,
   loadRecentEntries
@@ -49,6 +52,12 @@ let gitPublication = {
 };
 
 if (plan.shouldPublish) {
+  if (config.gitAutoCommit) {
+    await syncGitRepository({
+      rootDir
+    });
+  }
+
   await writeEntry({
     entryDate: plan.entryDate,
     fragments,

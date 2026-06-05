@@ -85,6 +85,8 @@ rg -n "[^[:ascii:]]" CODEX.md docs prompts src test package.json tsconfig.json t
   persistir apenas `response`.
 - Publicacao Git e controlada por flags. `GIT_AUTO_COMMIT=false` e o default
   seguro; na VPS, usar `GIT_AUTO_COMMIT=true` e `GIT_PUSH=true`.
+- Quando `GIT_AUTO_COMMIT=true`, sincronizar com `git pull --rebase` antes de
+  escrever arquivos de publicacao.
 - Smoke test na VPS em `~/daily-blueprint-smoke` passou `npm ci`,
   `npm run check` e `npm run generate` com Ollama real. A pasta era temporaria
   e sem `.git`, entao validou runtime/LLM/escrita, nao commit/push.

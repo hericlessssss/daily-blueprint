@@ -2,7 +2,8 @@ import { describe, expect, it } from "vitest";
 
 import {
   buildCommitMessage,
-  publishGitChanges
+  publishGitChanges,
+  syncGitRepository
 } from "../src/git-publisher.js";
 
 describe("git publisher", () => {
@@ -16,6 +17,24 @@ describe("git publisher", () => {
     expect(buildCommitMessage({ entryDate: "2026-06-08", fragmentCount: 3 })).toBe(
       "entry: add 2026-06-08 fragments"
     );
+  });
+
+  it("syncs the repository before writing publication files", async () => {
+    const commands: string[] = [];
+
+    await syncGitRepository({
+      rootDir: "/repo",
+      runner: (command, args) => {
+        commands.push([command, ...args].join(" "));
+
+        return Promise.resolve({
+          stdout: "",
+          stderr: ""
+        });
+      }
+    });
+
+    expect(commands).toEqual(["git pull --rebase"]);
   });
 
   it("skips commit when README and entries have no changes", async () => {
@@ -42,7 +61,6 @@ describe("git publisher", () => {
     });
 
     expect(commands).toEqual([
-      "git pull --rebase",
       "git status --porcelain -- README.md entries"
     ]);
   });
@@ -71,7 +89,6 @@ describe("git publisher", () => {
     });
 
     expect(commands).toEqual([
-      "git pull --rebase",
       "git status --porcelain -- README.md entries",
       "git add README.md entries",
       "git commit -m entry: add 2026-06-08 fragments",

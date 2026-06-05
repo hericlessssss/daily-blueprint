@@ -163,3 +163,5 @@ Motivo:
 - O comportamento default local fica seguro.
 - A VPS pode publicar sem intervencao.
 - Testes validam os comandos sem tocar em repositorio real.
+- O sync com `git pull --rebase` deve acontecer antes da escrita dos arquivos,
+  evitando conflito com alteracoes remotas.
