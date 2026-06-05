@@ -1,5 +1,3 @@
-# daily-blueprint
-
 <sub>gerado em dias uteis com Ollama qwen3:1.7b</sub>
 
 ## O Espelho de Segunda a Sexta
