@@ -37,7 +37,7 @@ export function renderReadmeWithEntry(options: ReadmeRenderOptions): string {
     return `${beforeEntries}\n\n${entryMarkdown}\n`;
   }
 
-  return `${beforeEntries}\n\n${entryMarkdown}\n\n${currentEntries}\n`;
+  return `${beforeEntries}\n\n${currentEntries}\n\n${entryMarkdown}\n`;
 }
 
 function renderPublicEntryBody(entryMarkdown: string): string {

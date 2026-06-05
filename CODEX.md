@@ -65,6 +65,8 @@ rg -n "[^[:ascii:]]" CODEX.md docs prompts src test package.json tsconfig.json t
   `docs/`.
 - O README publico nao exibe datas dos fragmentos; datas ficam apenas em
   `entries/YYYY-MM-DD.md`.
+- Novos fragmentos devem ser adicionados ao final da secao `Fragmentos` no
+  README, preservando ordem cronologica de leitura.
 - A fundacao tecnica nasceu com `npm run check` agregando lint, typecheck,
   testes e build.
 - Regras dependentes de data devem receber `timeZone` explicitamente para evitar

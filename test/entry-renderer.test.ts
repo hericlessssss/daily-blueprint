@@ -59,7 +59,7 @@ describe("entry renderer", () => {
     );
   });
 
-  it("prepends the new entry before existing entries", () => {
+  it("appends the new entry after existing entries", () => {
     const readme = [
       "# daily-blueprint",
       "",
@@ -80,9 +80,9 @@ describe("entry renderer", () => {
         "",
         "## Fragmentos",
         "",
-        "Entrada nova.",
-        "",
         "Entrada antiga.",
+        "",
+        "Entrada nova.",
         ""
       ].join("\n")
     );

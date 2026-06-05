@@ -152,6 +152,11 @@ Motivo:
 - As datas continuam preservadas nos arquivos `entries/YYYY-MM-DD.md`.
 - A nota sobre geracao fica discreta acima do titulo do livro.
 
+Complemento:
+
+- Novos fragmentos entram no final da secao `Fragmentos`, preservando a ordem
+  cronologica de leitura.
+
 ## 2026-06-04: cadencia de publicacao
 
 Decisao: publicar apenas de segunda a sexta, com sorteio de 1 a 3 fragmentos por

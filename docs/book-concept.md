@@ -44,6 +44,7 @@ diante de uma tela.
 - Cada fragmento deve ser curto.
 - O README publico deve mostrar apenas o texto em progresso, sem datas de
   execucao.
+- Novos fragmentos devem entrar no final do README, preservando ordem de livro.
 - As datas devem ficar preservadas apenas em `entries/YYYY-MM-DD.md`.
 - A documentacao tecnica deve permanecer em `docs/`.
 
