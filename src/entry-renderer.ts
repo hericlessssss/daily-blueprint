@@ -31,11 +31,18 @@ export function renderReadmeWithEntry(options: ReadmeRenderOptions): string {
   const sectionStart = fragmentsIndex + fragmentsHeading.length;
   const beforeEntries = options.readme.slice(0, sectionStart);
   const currentEntries = options.readme.slice(sectionStart).trim();
-  const entryMarkdown = options.entryMarkdown.trim();
+  const entryMarkdown = renderPublicEntryBody(options.entryMarkdown);
 
   if (currentEntries === "" || currentEntries === emptyPlaceholder) {
     return `${beforeEntries}\n\n${entryMarkdown}\n`;
   }
 
   return `${beforeEntries}\n\n${entryMarkdown}\n\n${currentEntries}\n`;
+}
+
+function renderPublicEntryBody(entryMarkdown: string): string {
+  return entryMarkdown
+    .trim()
+    .replace(/^### \d{4}-\d{2}-\d{2}\n+/, "")
+    .trim();
 }

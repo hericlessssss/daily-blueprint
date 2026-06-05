@@ -142,6 +142,16 @@ Motivo:
 - A automacao passa a servir a obra, nao o contrario.
 - O repositorio publico fica mais elegante e menos explicativo.
 
+## 2026-06-05: README sem datas
+
+Decisao: remover datas de execucao do corpo publico do `README.md`.
+
+Motivo:
+
+- O README deve parecer um texto continuo, nao um log.
+- As datas continuam preservadas nos arquivos `entries/YYYY-MM-DD.md`.
+- A nota sobre geracao fica discreta acima do titulo do livro.
+
 ## 2026-06-04: cadencia de publicacao
 
 Decisao: publicar apenas de segunda a sexta, com sorteio de 1 a 3 fragmentos por

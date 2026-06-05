@@ -63,6 +63,8 @@ rg -n "[^[:ascii:]]" CODEX.md docs prompts src test package.json tsconfig.json t
   a conta GitHub e chegar a branch default do repositorio.
 - O README publico deve ser discreto e literario; a mecanica do projeto fica em
   `docs/`.
+- O README publico nao exibe datas dos fragmentos; datas ficam apenas em
+  `entries/YYYY-MM-DD.md`.
 - A fundacao tecnica nasceu com `npm run check` agregando lint, typecheck,
   testes e build.
 - Regras dependentes de data devem receber `timeZone` explicitamente para evitar

@@ -33,7 +33,7 @@ describe("entry writer", () => {
       "### 2026-06-08\n\nEntrada nova.\n"
     );
     await expect(readFile(join(tempDir, "README.md"), "utf8")).resolves.toBe(
-      "# daily-blueprint\n\n## Fragmentos\n\n### 2026-06-08\n\nEntrada nova.\n"
+      "# daily-blueprint\n\n## Fragmentos\n\nEntrada nova.\n"
     );
   });
 

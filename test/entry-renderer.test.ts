@@ -53,8 +53,6 @@ describe("entry renderer", () => {
         "",
         "## Fragmentos",
         "",
-        "### 2026-06-08",
-        "",
         "Primeiro fragmento.",
         ""
       ].join("\n")
@@ -66,8 +64,6 @@ describe("entry renderer", () => {
       "# daily-blueprint",
       "",
       "## Fragmentos",
-      "",
-      "### 2026-06-05",
       "",
       "Entrada antiga.",
       ""
@@ -84,11 +80,7 @@ describe("entry renderer", () => {
         "",
         "## Fragmentos",
         "",
-        "### 2026-06-08",
-        "",
         "Entrada nova.",
-        "",
-        "### 2026-06-05",
         "",
         "Entrada antiga.",
         ""
@@ -103,5 +95,16 @@ describe("entry renderer", () => {
         readme: "# daily-blueprint\n"
       })
     ).toThrow("README.md must contain a ## Fragmentos section.");
+  });
+
+  it("does not expose dates in the public readme body", () => {
+    const readme = "# daily-blueprint\n\n## Fragmentos\n\nAinda nao ha registros.\n";
+
+    expect(
+      renderReadmeWithEntry({
+        entryMarkdown: "### 2026-06-08\n\nEntrada nova.\n",
+        readme
+      })
+    ).not.toContain("2026-06-08");
   });
 });

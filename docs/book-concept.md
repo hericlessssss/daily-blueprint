@@ -42,7 +42,9 @@ diante de uma tela.
 - Nunca publicar aos sabados ou domingos.
 - Em cada dia util, gerar aleatoriamente de 1 a 3 fragmentos.
 - Cada fragmento deve ser curto.
-- O README publico deve mostrar apenas o texto em progresso.
+- O README publico deve mostrar apenas o texto em progresso, sem datas de
+  execucao.
+- As datas devem ficar preservadas apenas em `entries/YYYY-MM-DD.md`.
 - A documentacao tecnica deve permanecer em `docs/`.
 
 ## Formato dos fragmentos
@@ -50,7 +52,7 @@ diante de uma tela.
 Cada fragmento deve poder existir sozinho, mas tambem somar continuidade ao
 livro.
 
-Exemplo de formato:
+Formato dos arquivos em `entries/`:
 
 ```md
 ### 2026-06-05
@@ -60,7 +62,7 @@ mas muitas vezes estao procurando uma forma menos solitaria de formular a
 pergunta.
 ```
 
-Quando houver mais de um fragmento no mesmo dia:
+Quando houver mais de um fragmento no mesmo dia em `entries/`:
 
 ```md
 ### 2026-06-05
@@ -79,6 +81,7 @@ quando descobrem que ainda precisam escolher.
 - Nao citar usuarios, empresas ou dados privados.
 - Nao expor prompts, chaves, infraestrutura ou detalhes operacionais.
 - Nao falar que o texto foi gerado automaticamente no README publico.
+- Nao exibir datas no corpo publico do README.
 
 ## Primeira linha
 
