@@ -104,3 +104,7 @@ rg -n "[^[:ascii:]]" CODEX.md docs prompts src test package.json tsconfig.json t
   registra `logs/cron.log` e usa lock em `logs/generate.lock`.
 - O Qwen pode responder varios fragmentos em um unico bloco. O parser divide
   por frases quando a separacao por linhas em branco nao vem correta.
+- Cron real instalado na VPS com `CRON_TZ=America/Sao_Paulo` e execucao de
+  segunda a sexta as 08:17.
+- Teste seguro do script na VPS usou `PUBLISH_DAYS=0` para validar log/lock sem
+  criar entrada duplicada.

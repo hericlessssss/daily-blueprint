@@ -18,7 +18,7 @@
 - Integrar Ollama API. Feito atras de fallback mock.
 - Criar prompts versionados. Feito.
 - Montar contexto com resumo e ultimos trechos. Feito.
-- Implementar sorteio de 1 a 3 fragmentos por dia util.
+- Implementar sorteio de 1 a 3 fragmentos por dia util. Feito.
 - Validar resposta antes de salvar. Feito para resposta da LLM.
 - Gravar entrada em `entries/YYYY-MM-DD.md`. Feito.
 - Atualizar `README.md`. Feito.
@@ -29,17 +29,17 @@
 - Automatizar `git add`, `commit` e `push`. Feito atras de flags.
 - Padronizar mensagem de commit. Feito.
 - Impedir commits duplicados no mesmo dia. Feito para escrita local.
-- Bloquear publicacao em fins de semana.
+- Bloquear publicacao em fins de semana. Feito.
 
 ## Fase 4: VPS
 
-- Clonar repo na VPS.
-- Configurar Node.js.
-- Configurar `.env`. Em andamento.
-- Configurar acesso SSH ao GitHub.
+- Clonar repo na VPS. Feito.
+- Configurar Node.js. Feito.
+- Configurar `.env`. Feito.
+- Configurar acesso SSH ao GitHub. Feito.
 - Criar script de execucao com log e lock. Feito.
-- Criar cron de segunda a sexta.
-- Verificar logs.
+- Criar cron de segunda a sexta. Feito.
+- Verificar logs. Feito.
 
 ## Fase 5: qualidade de vida
 

@@ -105,13 +105,21 @@ Resultado observado na VPS Hostinger:
   temporaria.
 - Teste real no clone `~/apps/daily-blueprint` gerou a entrada de `2026-06-05`,
   criou commit e fez push para `origin/main`.
+- Script de cron foi testado com `PUBLISH_DAYS=0`, `LLM_PROVIDER=mock` e
+  `GIT_AUTO_COMMIT=false`, confirmando log, lock e skip sem escrita.
+- Cron real foi instalado com `CRON_TZ=America/Sao_Paulo`.
 
 ## Cron inicial
 
-Exemplo de job em dias uteis:
+Cron instalado em dias uteis:
 
 ```cron
+# daily-blueprint:start
+SHELL=/bin/bash
+PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin
+CRON_TZ=America/Sao_Paulo
 17 8 * * 1-5 /home/deploy/apps/daily-blueprint/scripts/run-generate.sh
+# daily-blueprint:end
 ```
 
 Esse exemplo roda de segunda a sexta as 08:17 no horario local configurado no

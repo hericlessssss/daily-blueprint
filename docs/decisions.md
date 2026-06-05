@@ -57,6 +57,13 @@ Motivo:
 - Evita duas execucoes simultaneas.
 - Mantem o cron simples e legivel.
 
+Validacao:
+
+- Script testado na VPS com `PUBLISH_DAYS=0`, `LLM_PROVIDER=mock` e
+  `GIT_AUTO_COMMIT=false`.
+- Cron instalado com `CRON_TZ=America/Sao_Paulo` para evitar depender do fuso do
+  servidor.
+
 ## 2026-06-05: tolerancia de parser da LLM
 
 Decisao: quando a LLM retornar um unico bloco para varios fragmentos, tentar
