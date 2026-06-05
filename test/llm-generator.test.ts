@@ -23,6 +23,13 @@ describe("LLM generator", () => {
     );
   });
 
+  it("splits sentence blocks when the model omits blank lines", () => {
+    expect(parseGeneratedFragments("Primeiro. Segundo. Terceiro.", 2)).toEqual([
+      "Primeiro.",
+      "Segundo. Terceiro."
+    ]);
+  });
+
   it("calls the injected Ollama HTTP client", async () => {
     const fetch = vi.fn().mockResolvedValue({
       json: () =>

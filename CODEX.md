@@ -102,3 +102,5 @@ rg -n "[^[:ascii:]]" CODEX.md docs prompts src test package.json tsconfig.json t
   config.
 - `scripts/run-generate.sh` e o ponto de entrada recomendado para cron; ele
   registra `logs/cron.log` e usa lock em `logs/generate.lock`.
+- O Qwen pode responder varios fragmentos em um unico bloco. O parser divide
+  por frases quando a separacao por linhas em branco nao vem correta.

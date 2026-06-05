@@ -64,17 +64,35 @@ export function parseGeneratedFragments(
     .map((fragment) => fragment.trim())
     .filter((fragment) => fragment.length > 0);
 
-  if (fragments.length !== expectedFragmentCount) {
+  const normalizedFragments =
+    fragments.length === 1 && expectedFragmentCount > 1
+      ? splitSentenceBlock(fragments[0] ?? "", expectedFragmentCount)
+      : fragments;
+
+  if (normalizedFragments.length !== expectedFragmentCount) {
     throw new Error(
-      `Expected ${String(expectedFragmentCount)} fragment(s), received ${String(fragments.length)}.`
+      `Expected ${String(expectedFragmentCount)} fragment(s), received ${String(normalizedFragments.length)}.`
     );
   }
 
-  return fragments;
+  return normalizedFragments;
 }
 
 function isOllamaGenerateResponse(value: unknown): value is OllamaGenerateResponse {
   return typeof value === "object" && value !== null && "response" in value;
+}
+
+function splitSentenceBlock(text: string, expectedFragmentCount: number): readonly string[] {
+  const sentences = text.match(/[^.!?]+[.!?]+(?:\s|$)/g)?.map((sentence) => sentence.trim()) ?? [];
+
+  if (sentences.length < expectedFragmentCount) {
+    return [text];
+  }
+
+  const head = sentences.slice(0, expectedFragmentCount - 1);
+  const tail = sentences.slice(expectedFragmentCount - 1).join(" ");
+
+  return [...head, tail];
 }
 
 async function readJson(response: OllamaHttpResponse): Promise<unknown> {

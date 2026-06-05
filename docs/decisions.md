@@ -57,6 +57,17 @@ Motivo:
 - Evita duas execucoes simultaneas.
 - Mantem o cron simples e legivel.
 
+## 2026-06-05: tolerancia de parser da LLM
+
+Decisao: quando a LLM retornar um unico bloco para varios fragmentos, tentar
+dividir o texto por frases antes de falhar.
+
+Motivo:
+
+- Qwen pode ignorar a instrucao de separar fragmentos por linhas em branco.
+- O job diario deve ser resiliente a pequenas variacoes de formato.
+- A validacao de quantidade continua existindo apos a normalizacao.
+
 ## 2026-06-04: gerador mockado
 
 Decisao: criar um gerador mockado deterministico baseado na data.
