@@ -12,6 +12,7 @@ Este arquivo e a documentacao viva de como trabalhamos no `daily-blueprint`.
 - Registrar decisoes, padroes, comandos e aprendizados neste arquivo.
 - Considerar seguranca, manutencao, rollback e impacto em producao.
 - Evitar mudancas fora do escopo.
+- Depois de ajustes no projeto, criar commit e fazer push para `origin/main`.
 
 ## Definition of Done
 
