@@ -35,15 +35,16 @@
 
 - Clonar repo na VPS.
 - Configurar Node.js.
-- Configurar `.env`.
+- Configurar `.env`. Em andamento.
 - Configurar acesso SSH ao GitHub.
+- Criar script de execucao com log e lock. Feito.
 - Criar cron de segunda a sexta.
 - Verificar logs.
 
 ## Fase 5: qualidade de vida
 
-- Adicionar lockfile.
-- Adicionar logs estruturados.
+- Adicionar lockfile. Feito no script de execucao.
+- Adicionar logs estruturados. Parcial: `logs/cron.log` com timestamps.
 - Adicionar alerta em caso de falha.
 - Criar resumo mensal automatico.
 - Publicar leitura via GitHub Pages.

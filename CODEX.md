@@ -98,3 +98,7 @@ rg -n "[^[:ascii:]]" CODEX.md docs prompts src test package.json tsconfig.json t
   user.name` e `git config user.email` antes do primeiro commit automatizado.
 - Primeiro teste real com Git na VPS publicou `entries/2026-06-05.md` no commit
   `d2e44ee`.
+- O app carrega `.env` automaticamente da raiz do projeto antes de montar
+  config.
+- `scripts/run-generate.sh` e o ponto de entrada recomendado para cron; ele
+  registra `logs/cron.log` e usa lock em `logs/generate.lock`.

@@ -2,6 +2,7 @@ import { readFile } from "node:fs/promises";
 import { join } from "node:path";
 
 import { loadConfig } from "./config.js";
+import { loadEnvFile } from "./env-file.js";
 import { writeEntry } from "./entry-writer.js";
 import {
   generateOllamaFragments
@@ -18,8 +19,9 @@ import {
 } from "./prompt-context.js";
 import { buildPublicationPlan } from "./publication.js";
 
-const config = loadConfig(process.env);
 const rootDir = process.cwd();
+await loadEnvFile(join(rootDir, ".env"), process.env);
+const config = loadConfig(process.env);
 const plan = buildPublicationPlan({
   date: new Date(),
   maxFragments: config.maxFragmentsPerRun,

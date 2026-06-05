@@ -32,7 +32,7 @@ As variaveis devem ficar em um arquivo `.env` no servidor, nunca commitado.
 LLM_PROVIDER=ollama
 OLLAMA_BASE_URL=http://localhost:11434
 OLLAMA_MODEL=qwen3:1.7b
-BOOK_TITLE=Daily Blueprint
+BOOK_TITLE="O Espelho de Segunda a Sexta"
 BOOK_LANGUAGE=pt-BR
 TIMEZONE=America/Sao_Paulo
 PUBLISH_DAYS=1,2,3,4,5
@@ -41,6 +41,9 @@ MAX_FRAGMENTS_PER_RUN=3
 GIT_AUTO_COMMIT=true
 GIT_PUSH=true
 ```
+
+O app carrega `.env` automaticamente a partir da raiz do projeto. Variaveis ja
+exportadas no ambiente tem prioridade sobre valores do arquivo.
 
 ## GitHub
 
@@ -108,11 +111,14 @@ Resultado observado na VPS Hostinger:
 Exemplo de job em dias uteis:
 
 ```cron
-17 8 * * 1-5 cd /opt/daily-blueprint && npm run generate >> logs/cron.log 2>&1
+17 8 * * 1-5 /home/deploy/apps/daily-blueprint/scripts/run-generate.sh
 ```
 
 Esse exemplo roda de segunda a sexta as 08:17 no horario local configurado no
 servidor.
+
+O script `scripts/run-generate.sh` cria `logs/cron.log`, usa lock em
+`logs/generate.lock` e evita duas execucoes simultaneas.
 
 ## Operacao basica
 
@@ -120,14 +126,20 @@ Comandos que devem existir no projeto:
 
 ```bash
 npm install
-npm run generate
 npm run check
+scripts/run-generate.sh
 ```
 
 Para testar sem commitar/pushar, use:
 
 ```bash
 LLM_PROVIDER=mock GIT_AUTO_COMMIT=false npm run generate
+```
+
+Para acompanhar logs:
+
+```bash
+tail -f /home/deploy/apps/daily-blueprint/logs/cron.log
 ```
 
 ## Falhas esperadas

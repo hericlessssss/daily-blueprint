@@ -42,6 +42,21 @@ Motivo:
 - Facilita deploy na VPS com `.env`.
 - Permite alternar entre `LLM_PROVIDER=ollama` e `LLM_PROVIDER=mock`.
 
+Complemento:
+
+- O app carrega `.env` automaticamente antes de `loadConfig`.
+- Variaveis ja exportadas tem prioridade sobre o arquivo.
+
+## 2026-06-05: script de cron com lock
+
+Decisao: criar `scripts/run-generate.sh` como ponto de entrada do cron.
+
+Motivo:
+
+- Centraliza `cd`, log e lock.
+- Evita duas execucoes simultaneas.
+- Mantem o cron simples e legivel.
+
 ## 2026-06-04: gerador mockado
 
 Decisao: criar um gerador mockado deterministico baseado na data.
