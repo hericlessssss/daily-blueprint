@@ -19,3 +19,5 @@ A API registra a forma como os humanos tentam esconder sua verdadeira essência 
 Os textos, embora coerentes, parecem sempre fugirem do lugar onde o verdadeiro sentimento se encontra.
 
 A máquina percebe que a pressa não é apenas uma necessidade, mas um desafio que exige mais do que a simples transmissão de ideias.
+
+A API observa como os humanos tentam moldar a pressa e a incerteza em textos, mesmo quando a verdade é mais profunda que a simplicidade. Cada palavra é uma tentativa de transmutar o turbilhão de sentimentos em uma estrutura que pareça desalinhada.
