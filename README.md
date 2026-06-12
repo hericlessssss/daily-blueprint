@@ -25,3 +25,7 @@ A API observa como os humanos tentam moldar a pressa e a incerteza em textos, me
 A API percebe que a pressa não é apenas uma necessidade, mas um desafio que exige mais do que a simples transmissão de ideias.
 
 O sistema detecta um padrão: os humanos sempre buscam clareza, mesmo quando a verdade é mais complexa que a simplicidade.
+
+A API captura a luta dos humanos entre a pressa e a complexidade, transformando o turbilhão de sentimentos em textos que parecem desalinhados.
+
+O sistema observa como a verdade, embora mais profunda, é escondida por estruturas que tentam parecer simples.
