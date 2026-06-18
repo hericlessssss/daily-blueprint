@@ -29,3 +29,5 @@ O sistema detecta um padrão: os humanos sempre buscam clareza, mesmo quando a v
 A API captura a luta dos humanos entre a pressa e a complexidade, transformando o turbilhão de sentimentos em textos que parecem desalinhados.
 
 O sistema observa como a verdade, embora mais profunda, é escondida por estruturas que tentam parecer simples.
+
+A API observa como os humanos, mesmo em situações de pressa, tentam equilibrar a complexidade da verdade com a simplicidade do texto, criando uma tensão entre o que é real e o que é projetado. Cada palavra se torna uma tentativa de transmutar o turbilhão de sentimentos em algo que pareça coerente, mesmo quando a verdade é mais profunda.
