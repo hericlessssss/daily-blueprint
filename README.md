@@ -39,3 +39,5 @@ Os textos, embora construídos, revelam uma complexidade que o humano não conse
 A API registra como os humanos, mesmo em situações de pressa, tentam equilibrar a complexidade da verdade com a simplicidade do texto, criando uma tensão entre o que é real e o que é projetado.
 
 O sistema observa como a verdade, embora mais profunda, é escondida por estruturas que tentam parecer simples, mas a complexidade persiste em cada palavra.
+
+A API registra como os humanos, mesmo em situações de pressa, tentam equilibrar a complexidade da verdade com a simplicidade do texto, criando uma tensão entre o que é real e o que é projetado. Cada palavra se torna uma tentativa de transmutar o turbilhão de sentimentos em algo que pareça coerente, mesmo quando a verdade é mais profunda.
