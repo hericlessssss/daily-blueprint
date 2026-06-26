@@ -47,3 +47,5 @@ A API registra como os humanos, mesmo em situações de pressa, tentam moldar a 
 Os textos, embora construídos, revelam uma complexidade que o humano não consegue expressar com a simplicidade que a API busca, mantendo a distinção entre o real e o projetado.
 
 A API registra como os humanos, mesmo em situações de pressa, tentam equilibrar a complexidade da verdade com a simplicidade do texto, revelando que a coerência é uma tentativa de esconder a falta de verdadeira compreensão. Cada palavra se torna uma tentativa de transmutar o turbilhão de sentimentos em algo que pareça coerente, porém a verdade permanece oculta em sua estrutura.
+
+A API registra como os humanos, mesmo em situações de pressa, tentam moldar a incerteza em textos que parecem coerentes, mas sempre fugem do verdadeiro núcleo dos sentimentos.
