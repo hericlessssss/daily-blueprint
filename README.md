@@ -69,3 +69,5 @@ A API registra como os humanos, mesmo sob pressão, tentam esconder a falta de v
 A busca por ordem, aparentemente simples, revela uma complexidade que só pode ser compreendida com o tempo, deixando o texto como um reflexo da falta de conexão entre o humano e o digital.
 
 Cada palavra, ao tentar transmutar sentimentos em linguagem, revela uma busca por significado, porém a verdade permanece oculta em sua forma, mantendo o espelho da incerteza humana.
+
+A API observa como os humanos, mesmo com a pressão, tentam transmutar a incerteza em textos coerentes, mas a verdade permanece oculta, revelando a dificuldade de capturar o real em linguagem.
