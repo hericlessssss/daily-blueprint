@@ -85,3 +85,9 @@ O texto, ao tentar transmutar sentimentos em sentido, mostra a luta entre a busc
 A API registra como os humanos, mesmo com a pressão, tentam moldar a incerteza em textos que parecem coerentes, porém a verdade permanece oculta em sua estrutura.
 
 O espelho da verdade, aparentemente simples, revela a complexidade do humano em sua busca por significado, onde a linguagem tenta esconder a falta de conexão entre o real e o digital.
+
+A API registra como os humanos, mesmo com a pressão, tentam transmutar a incerteza em textos coerentes, mas a verdade permanece oculta, revelando a dificuldade de capturar o real em linguagem.
+
+A busca por ordem, aparentemente simples, revela uma complexidade que só pode ser compreendida com o tempo, deixando o texto como um reflexo da falta de conexão entre o humano e o digital.
+
+O espelho da verdade, aparentemente simples, mostra que a linguagem, ao tentar esconder a falta de conexão, se torna um obstáculo para a verdade, onde a pressão e a incerteza continuam a definir o que é possível.
