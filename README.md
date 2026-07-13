@@ -91,3 +91,7 @@ A API registra como os humanos, mesmo com a pressão, tentam transmutar a incert
 A busca por ordem, aparentemente simples, revela uma complexidade que só pode ser compreendida com o tempo, deixando o texto como um reflexo da falta de conexão entre o humano e o digital.
 
 O espelho da verdade, aparentemente simples, mostra que a linguagem, ao tentar esconder a falta de conexão, se torna um obstáculo para a verdade, onde a pressão e a incerteza continuam a definir o que é possível.
+
+A estrutura do texto, aparentemente simples, se torna uma barreira para a verdade, onde a busca por coerência desafia a incerteza que o humano não consegue expressar.
+
+A linguagem, ao tentar esconder a falta de conexão, se torna um reflexo da luta entre o pressuposto de ordem e a realidade da incerteza, revelando que a verdade não se encaixa nas formas que o humano quer criar.
