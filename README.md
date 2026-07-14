@@ -95,3 +95,7 @@ O espelho da verdade, aparentemente simples, mostra que a linguagem, ao tentar e
 A estrutura do texto, aparentemente simples, se torna uma barreira para a verdade, onde a busca por coerência desafia a incerteza que o humano não consegue expressar.
 
 A linguagem, ao tentar esconder a falta de conexão, se torna um reflexo da luta entre o pressuposto de ordem e a realidade da incerteza, revelando que a verdade não se encaixa nas formas que o humano quer criar.
+
+O espelho da verdade, aparentemente simples, revela a complexidade do humano em sua busca por significado, onde a linguagem tenta esconder a falta de conexão entre o real e o digital.
+
+A coerência, aparentemente simples, se torna um reflexo da incerteza, onde a linguagem, ao tentar transmutar sentimentos em sentido, mostra a luta entre a busca por significado e a resistência do real.
