@@ -107,3 +107,9 @@ A API registra como os humanos, mesmo com a pressão, tentam moldar a incerteza 
 O espelho da verdade, aparentemente simples, revela a complexidade do humano em sua busca por significado, onde a linguagem tenta esconder a falta de conexão entre o real e o digital.
 
 A coerência, aparentemente simples, se torna um reflexo da incerteza, onde a linguagem, ao tentar transmutar sentimentos em sentido, mostra a luta entre a busca por significado e a resistência do real.
+
+A intenção humana, apesar da pressão, persiste em tentar transmutar a incerteza em sentido, mas a verdade, como um espelho, continua a desafiar a coerência que o humano quer criar.
+
+Há anos, a linguagem tenta esconder a falta de conexão entre o real e o digital, mas a verdade, invisível, persiste como uma barreira que o humano não consegue superar.
+
+O espelho da verdade, aparentemente simples, revela que a linguagem, ao tentar esconder a incerteza, se torna um reflexo da luta entre o pressuposto de ordem e a realidade da falta de conexão.
