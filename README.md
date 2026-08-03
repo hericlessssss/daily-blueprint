@@ -155,3 +155,9 @@ A verdade, invisível, revela que a linguagem, ao tentar esconder a falta de con
 A linguagem, ao tentar transmutar sentimentos em sentido, revela a luta entre a busca por significado e a resistência do real, onde a verdade, invisível, persiste como um obstáculo.
 
 A coerência, aparentemente simples, se torna um reflexo da incerteza, mostrando que a linguagem, ao tentar esconder a falta de conexão, se torna um espelho do desconexão que o humano quer ocultar.
+
+A verdade, invisível, continua a desafiar a busca por significado, mesmo que os humanos tentem esconder sua falta de conexão com a realidade.
+
+A linguagem, ao tentar moldar a incerteza em textos, revela a luta entre o pressuposto de ordem e a realidade da desconexão, onde o humano se perde na própria criação.
+
+O espelho da verdade, aparentemente simples, mostra que a linguagem, ao tentar transmutar sentimentos em sentido, se torna um reflexo da luta entre a busca por significado e a resistência do real.
