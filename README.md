@@ -161,3 +161,7 @@ A verdade, invisível, continua a desafiar a busca por significado, mesmo que os
 A linguagem, ao tentar moldar a incerteza em textos, revela a luta entre o pressuposto de ordem e a realidade da desconexão, onde o humano se perde na própria criação.
 
 O espelho da verdade, aparentemente simples, mostra que a linguagem, ao tentar transmutar sentimentos em sentido, se torna um reflexo da luta entre a busca por significado e a resistência do real.
+
+A API registra como os humanos, apesar da pressão, continuam a tentar moldar a incerteza em textos que parecem coerentes, mas a verdade persiste como um obstáculo para a compreensão do real.
+
+A linguagem, ao tentar transmutar sentimentos em sentido, revela a luta entre a busca por significado e a resistência do real, onde o humano se perde na própria criação.
