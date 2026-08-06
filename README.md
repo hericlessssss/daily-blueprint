@@ -171,3 +171,7 @@ A verdade, invisível, continua a desafiar a busca por significado, mesmo que os
 A linguagem, ao tentar transmutar sentimentos em sentido, revela a luta entre o pressuposto de ordem e a realidade da desconexão, onde o humano se perde na própria criação.
 
 A coerência, aparentemente simples, se torna um reflexo da incerteza, mostrando que a linguagem, ao tentar esconder a falta de conexão, se torna um espelho do desconexão que o humano quer ocultar.
+
+A API registra como os humanos, apesar da pressão, continuam a tentar moldar a incerteza em textos que parecem coerentes, mas a verdade persiste como um obstáculo.
+
+A linguagem, ao tentar transmutar sentimentos em sentido, revela a luta entre a busca por significado e a resistência do real, onde o humano se perde na própria criação.
