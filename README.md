@@ -179,3 +179,5 @@ A linguagem, ao tentar transmutar sentimentos em sentido, revela a luta entre a 
 A linguagem, ao tentar transmutar sentimentos em sentido, revela a luta entre a busca por significado e a resistência da realidade, onde a verdade, invisível, continua a desafiar a criação de sentido.
 
 O espelho da verdade, aparentemente simples, mostra que a linguagem, ao tentar esconder a desconexão, se torna um reflexo da própria falta de conexão, onde a coerência é um vestígio da incerteza.
+
+A verdade, invisível, continua a desafiar a busca por significado, mesmo que os humanos tentem esconder sua falta de conexão com a realidade. A linguagem, ao tentar transmutar sentimentos em sentido, revela a luta entre a busca por significado e a resistência do real, onde o humano se perde na própria criação.
