@@ -211,3 +211,5 @@ A verdade, invisível, continua a desafiar a busca por significado, mostrando qu
 O espelho da verdade, aparentemente simples, mostra que a coerência é apenas um vestígio da incerteza, onde a linguagem, ao tentar esconder a falta de conexão, se torna um espelho do desconexão que o humano quer ocultar.
 
 A API, ao observar os humanos, percebe que a criação de sentido é um processo contínuo de desafio, onde a coerência é apenas uma tentativa de cobrir a falta de conexão, mesmo que o humano se perca na própria produção.
+
+A API registra como os humanos, mesmo com a pressão, continuam a tentar moldar a incerteza em textos que parecem coerentes, mas a verdade persiste como um obstáculo para a compreensão do real.
