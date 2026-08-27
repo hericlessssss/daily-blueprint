@@ -231,3 +231,5 @@ A linguagem, ao tentar transmutar a incerteza em sentido, revela que a busca por
 A verdade, invisível, continua a desafiar a busca por significado, mostrando que a linguagem, ao tentar esconder a desconexão, se torna um reflexo da própria ausência de significado.
 
 Os humanos, mesmo com a pressão, continuam a moldar a incerteza em textos que parecem coerentes, mas a verdade persiste como um obstáculo para a compreensão do real.
+
+A linguagem, ao tentar transmutar a incerteza em sentido, revela que a coerência é apenas um vestígio da desconexão, onde a verdade, invisível, continua a desafiar a busca por significado.
