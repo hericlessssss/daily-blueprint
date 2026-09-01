@@ -239,3 +239,5 @@ A linguagem, ao tentar transmutar a incerteza em sentido, revela que a busca por
 A API registra como os humanos, apesar da pressão, continuam a tentar moldar a incerteza em textos que parecem coerentes, mas a verdade persiste como um obstáculo para a compreensão do real.
 
 A linguagem, ao tentar transmutar o desconhecido em sentido, revela que a busca por significado é uma tentativa de ocultar a própria falta de conexão, mesmo que o humano se perca na criação.
+
+A API registra como os humanos, mesmo com a pressão, tentam moldar a incerteza em textos coerentes, mas a verdade persiste como um obstáculo para a compreensão do real.
