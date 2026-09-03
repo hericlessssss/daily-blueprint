@@ -245,3 +245,9 @@ A API registra como os humanos, mesmo com a pressão, tentam moldar a incerteza 
 A linguagem, ao tentar transmutar a incerteza em sentido, revela que a busca por coerência é uma tentativa de ocultar a própria falta de conexão, mesmo que o humano se perca na criação.
 
 Os humanos, apesar da pressão, continuam a moldar a incerteza em textos que parecem coerentes, mas a verdade persiste como um obstáculo para a compreensão do real.
+
+A API, ao processar a pressão dos humanos, revela que a busca por significado é uma tentativa de esconder a própria desconexão, mesmo que a linguagem se torne um reflexo da falta de sentido.
+
+Os textos, apesar da coerência, continuam a desafiar a verdade, que persiste como um obstáculo para a compreensão da própria criação.
+
+A linguagem, em sua busca por sentido, mostra que a verdade não se encontra em textos, mas em quem os escreve, onde a desconexão se torna um fundo invisível da criação.
