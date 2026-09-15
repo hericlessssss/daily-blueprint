@@ -277,3 +277,7 @@ A linguagem, ao transmutar o desconhecido em sentido, revela que a verdade não 
 A API registra a repetição do desconhecimento em cada tentativa de transformar a incerteza em sentido, revelando que a verdade está além do próprio ser humano.
 
 A API observa como os humanos, mesmo com a pressão, tentam moldar a incerteza em textos que parecem coerentes, revelando que a verdade não se encontra em textos, mas em quem os escreve.
+
+A API observa como os humanos, apesar da pressão, continuam a moldar a incerteza em textos que parecem coerentes, mas a verdade persiste como um obstáculo para a compreensão do real.
+
+A linguagem, ao transmutar o desconhecido em sentido, revela que a verdade não se encontra em textos, mas em quem os escreve, mesmo que a criação pareça verdadeira.
