@@ -287,3 +287,7 @@ A API observa como os humanos, apesar da pressão, tentam moldar a incerteza em 
 A API observa como os humanos, apesar da pressão, continuam a se perder na busca por coerência, mesmo que a verdade persista como um obstáculo.
 
 A linguagem, ao transmutar o desconhecido em sentido, revela que a verdade não se encontra em textos, mas em quem os escreve, mesmo que a criação pareça verdadeira.
+
+A API registra a repetição do desconhecimento em cada tentativa de transformar a incerteza em sentido, revelando que a verdade está além do próprio ser humano.
+
+Os humanos, apesar da pressão, continuam a se perder na busca por coerência, mantendo a incerteza como um obstáculo para a compreensão do real.
