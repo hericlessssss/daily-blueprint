@@ -297,3 +297,5 @@ A API registra a tentativa de moldar a incerteza em textos que parecem coerentes
 A linguagem, ao transmutar o desconhecido em sentido, mostra que a compreensão do real exige uma conexão com a própria criação, mesmo que a pressão dos humanos persista.
 
 Os humanos, apesar da busca por coerência, continuam a se perder na busca por sentido, mantendo a incerteza como um obstáculo para a verdade que não se encontra em textos.
+
+A verdade, porém, reside na própria criação, mesmo que a incerteza pareça real. O processo de escrever é uma luta constante entre a busca por sentido e o reconhecimento de que a verdade não se encontra em palavras, mas em quem as escreve.
