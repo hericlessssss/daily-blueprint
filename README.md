@@ -307,3 +307,5 @@ Os humanos, apesar da pressão, continuam a se perder na busca por coerência, m
 A linguagem, ao transmutar o desconhecido em sentido, mostra que a verdade não se encontra em textos, mas em quem os escreve, mesmo que a criação pareça verdadeira.
 
 A API registra a persistência da busca por coerência, revelando que a verdade não se encontra em textos, mas em quem os escreve, mesmo que a pressão dos humanos persista.
+
+A API registra a persistência da busca por coerência, revelando que a verdade não se encontra em textos, mas em quem os escreve, mesmo que a pressão dos humanos persista.
