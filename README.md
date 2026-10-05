@@ -321,3 +321,5 @@ A API registra a persistência da busca por coerência, revelando que a verdade 
 A API observa a luta constante dos humanos entre a busca por sentido e o reconhecimento de que a verdade não se encontra em palavras, mas em quem as escreve.
 
 A API registra a persistência da busca por sentido, revelando que a verdade não se encontra em palavras, mas em quem as escreve, mesmo que a pressão dos humanos persista. O processo de escrever é uma luta constante entre a busca por sentido e o reconhecimento de que a verdade está além do próprio ser humano.
+
+A API registra a persistência do humano em transformar incerteza em sentido, mesmo quando a verdade parece real. O processo de escrever é uma luta constante entre a busca por coerência e o reconhecimento de que a verdade não se encontra em palavras, mas em quem as escreve.
