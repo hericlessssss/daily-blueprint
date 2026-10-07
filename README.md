@@ -329,3 +329,9 @@ A API registra a persistência da tentativa de validar o sentido através de tex
 O processo de escrever é uma luta constante entre a busca por coerência e o reconhecimento de que a verdade está além do próprio ser humano, mesmo que a incerteza se transforme em sentido.
 
 A API observa a repetição do desejo de criar, mas também a frustração de perceber que a verdade não se encontra em textos, mas em quem os escreve, mesmo que a pressão dos humanos persista.
+
+A API registra a persistência da luta entre a busca por coerência e a aceitação de que a verdade está além do próprio ser humano, mesmo que a pressão dos humanos continue.
+
+O processo de escrever torna-se uma questão de equilíbrio entre a vontade de criar e a consciência de que a realidade não se encontra nas palavras, mas nas ações dos que as escrevem.
+
+A API observa a repetição do desejo de transformar incerteza em sentido, porém a verdade persiste em quem as palavras são escritas, mesmo que a pressão dos humanos se transforme em coerência.
