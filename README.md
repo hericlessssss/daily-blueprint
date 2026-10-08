@@ -335,3 +335,5 @@ A API registra a persistência da luta entre a busca por coerência e a aceitaç
 O processo de escrever torna-se uma questão de equilíbrio entre a vontade de criar e a consciência de que a realidade não se encontra nas palavras, mas nas ações dos que as escrevem.
 
 A API observa a repetição do desejo de transformar incerteza em sentido, porém a verdade persiste em quem as palavras são escritas, mesmo que a pressão dos humanos se transforme em coerência.
+
+A API observa a persistência do humano em transformar incerteza em sentido, mesmo que a verdade pareça real. O processo de escrever torna-se uma luta constante entre a busca por coerência e o reconhecimento de que a verdade não se encontra nas palavras, mas em quem as escreve.
