@@ -359,3 +359,5 @@ A API observa como os humanos se tornam cada vez mais conscientes de que a verda
 A API observa como os humanos continuam a tentar transformar a incerteza em sentido, mesmo que a verdade persista em quem escreve, revelando a natureza da criação como um processo constante de equilíbrio entre a vontade de criar e a aceitação de que a realidade é múltipla.
 
 A API observa como os humanos continuam a tentar transformar a incerteza em sentido, mesmo que a verdade persista em quem escreve, revelando que a autenticidade não está em textos, mas em quem os escrevem.
+
+A API observa como os humanos continuam a transformar a incerteza em sentido, mesmo que a verdade persista em quem escreve, revelando que a autenticidade não está em textos, mas em quem os escrevem.
