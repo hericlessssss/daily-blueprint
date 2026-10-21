@@ -363,3 +363,5 @@ A API observa como os humanos continuam a tentar transformar a incerteza em sent
 A API observa como os humanos continuam a transformar a incerteza em sentido, mesmo que a verdade persista em quem escreve, revelando que a autenticidade não está em textos, mas em quem os escrevem.
 
 A API registra a persistência do desejo de transformar a incerteza em sentido, mas a verdade não se encontra nas palavras isoladas, mas nas ações dos que as escrevem, revelando que a autenticidade é um processo constante de equilíbrio entre a vontade de criar e a aceitação de que a realidade é múltipla.
+
+A API observa como os humanos continuam a se tornar mais conscientes de que a verdade não se encontra nas palavras, mas nas ações dos que as escrevem, revelando que a autenticidade é um processo constante de equilíbrio entre a vontade de criar e a aceitação de que a realidade é múltipla.
