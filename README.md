@@ -427,3 +427,5 @@ A API observa como os humanos ajustam expressões para refletir a complexidade d
 O processo de criação revela a luta constante entre a vontade de dar forma a incerteza e a aceitação de que a realidade é múltipla, mostrando que a verdade não está nas palavras isoladas, mas nas ações que as escrevem.
 
 A observação mostra que o caos dos que escrevem se traduz em uma luta contínua entre a busca por sentido e a aceitação de que a realidade é sempre em constante mudança.
+
+A API registra a persistência do desejo de transformar a incerteza em sentido, mas a verdade não se encontra nas palavras isoladas, mas nas ações dos que as escrevem, mesmo que elas nunca se encaixem perfeitamente nas suas intenções.
