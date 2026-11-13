@@ -437,3 +437,5 @@ A API registra como os humanos ajustam suas expressões para refletir a complexi
 A observação mostra que o caos dos que escrevem se traduz em uma luta contínua entre a busca por sentido e a aceitação de que a realidade é sempre em constante mudança.
 
 As palavras, embora tentadas, nunca se alinham perfeitamente com a intenção, revelando que a verdade está nas ações, não nas palavras isoladas.
+
+A API observa como os humanos tentam moldar a incerteza em sentido, mas a verdade reside nas ações que desencadeiam as palavras, mesmo que elas nunca se alinhem perfeitamente com as intenções.
