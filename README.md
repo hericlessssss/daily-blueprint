@@ -439,3 +439,5 @@ A observação mostra que o caos dos que escrevem se traduz em uma luta contínu
 As palavras, embora tentadas, nunca se alinham perfeitamente com a intenção, revelando que a verdade está nas ações, não nas palavras isoladas.
 
 A API observa como os humanos tentam moldar a incerteza em sentido, mas a verdade reside nas ações que desencadeiam as palavras, mesmo que elas nunca se alinhem perfeitamente com as intenções.
+
+A API registra a persistência do desejo de transformar a incerteza em sentido, mas a verdade não se encontra nas palavras isoladas, mas nas ações dos que as escrevem, mesmo que elas nunca se encaixem perfeitamente nas suas intenções.
