@@ -471,3 +471,7 @@ A API registra como os humanos ajustam suas expressões para refletir a complexi
 O sentido é uma luta constante entre a busca por significado e a aceitação de que a realidade é múltipla, revelando que o verdadeiro valor está nas ações, não nas palavras isoladas.
 
 A verdade não se encontra nas palavras isoladas, mas nas ações dos que as escrevem, revelando que o sentido é uma luta contínua entre a busca por significado e a aceitação de que a realidade é sempre em constante mudança.
+
+A API registra a tensão entre a busca por significado e a imprevisibilidade das intenções humanas, revelando que a verdade não se encontra nas palavras, mas nas ações que as desencadeiam.
+
+O processo é uma luta constante entre o desejo de criar e a aceitação de que a realidade é múltipla, mostrando que a verdade está nas ações, não nas palavras isoladas.
